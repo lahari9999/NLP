@@ -1,0 +1,64 @@
+﻿What are the symptoms of COVID-19?
+Some people infected with the virus have no symptoms. When the virus does cause symptoms, common ones include low-grade fever, body aches, coughing, nasal congestion, runny nose, and sore throat. However, COVID-19 can occasionally cause more severe symptoms like high fever, severe cough, and shortness of breath, which often indicates pneumonia.
+How long is it between when a person is exposed to the virus and when they start showing symptoms?
+Because this coronavirus has just been discovered, the time from exposure to symptom onset (known as the incubation period) for most people has yet to be determined. Based on current information, symptoms could appear as soon as three days after exposure to as long as 13 days later. Recently published research found that on average, the incubation period is about five days.
+How does coronavirus spread?
+The coronavirus is thought to spread mainly from person to person. This can happen between people who are in close contact with one another. Droplets that are produced when an infected person coughs or sneezes may land in the mouths or noses of people who are nearby, or possibly be inhaled into their lungs.
+Coronavirus can also spread from contact with infected surfaces or objects. For example, a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes.
+How deadly is COVID-19?
+The answer depends on whether you're looking at the fatality rate (the risk of death among those who are infected) or the total number of deaths. So far, influenza has caused far more deaths this flu season, both in the US and worldwide, than COVID-19. This is why you may have heard it said that the flu is a bigger threat.
+Regarding the fatality rate, it appears that the risk of death with the pandemic coronavirus infection (commonly estimated at 3% to 4%) is less than it was for SARS (approximately 11%) and MERS (about 35%), but may be higher than the risk from seasonal flu (which averages about 0.1%).
+However, the numbers circulating right now for this new coronavirus are likely to be adjusted over time, as more people are tested and reporting becomes more consistent. For example, testing has been limited at the start of the outbreak, which could result in fewer identified cases, making it seem as though a larger percentage of infections are fatal. In fact, some recent estimates put the mortality rate of the new coronavirus closer to 1%.
+Who is at highest risk for getting very sick from COVID-19?
+Older people, and those with underlying medical problems like chronic bronchitis, emphysema, heart failure, or diabetes, are more likely to develop serious illness.
+Are kids immune to the virus that causes COVID-19?
+Children, including very young children, can develop COVID-19. However, children tend to experience milder symptoms such as fever, runny nose, and cough. Some children have had severe complications, but this has been less common. Children with underlying health conditions may be at increased risk for severe illness.
+Will warm weather stop the outbreak of COVID-19?
+Some viruses, like the common cold and flu, spread more when the weather is colder. But it is still possible to become sick with these viruses during warmer months. At this time, we do not know whether the spread of COVID-19 will decrease when the weather warms up.
+Should I accept packages from China?
+There is no reason to suspect that packages from China harbor coronavirus. Remember, this is a respiratory virus similar to the flu. We don't stop receiving packages from China during their flu season. We should follow that same logic for the virus that causes COVID-19.
+Can I catch the coronavirus by eating food handled or prepared by others?
+We are still learning about transmission of the new coronavirus. It's not clear if it can be spread by an infected person through food they have handled or prepared, but if so it would more likely be the exception than the rule.
+That said, the new coronavirus is a respiratory virus known to spread by upper respiratory secretions, including airborne droplets after coughing or sneezing. The virus that causes COVID-19 has also been detected in the stool of certain people. So we currently cannot rule out the possibility of the infection being transmitted through food by an infected person who has not thoroughly washed their hands. In the case of hot food, the virus would likely be killed by cooking. This may not be the case with uncooked foods like salads or sandwiches.
+Prevention:
+What can I do to protect myself and others from COVID-19?
+The following actions help prevent the spread of COVID-19, as well as other coronaviruses and influenza:
+* Avoid close contact with people who are sick.
+* Avoid touching your eyes, nose, and mouth.
+* Stay home when you are sick.
+* Cover your cough or sneeze with a tissue, then throw the tissue in the trash.
+* Clean and disinfect frequently touched objects and surfaces using a regular household cleaning spray or wipe.
+* Wash your hands often with soap and water.
+
+
+What do I need to know about washing my hands effectively?
+Wash your hands often with soap and water for at least 20 seconds, especially after going to the bathroom; before eating; and after blowing your nose, coughing, or sneezing.
+* If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry.
+* Always wash hands with soap and water if hands are visibly dirty.
+* The CDC's handwashing website has detailed instructions and a video about effective handwashing procedures.
+Should I wear a face mask? 
+Follow public health recommendations where you live. As of February 26, 2020, face masks are not recommended for the general public in the US. Some health facilities require people to wear a mask under certain circumstances.
+If you have respiratory symptoms like coughing or sneezing, experts recommend wearing a mask to protect others. This may help contain droplets containing any type of virus, including the flu, and protect anyone within three to six feet of the infected person.
+The CDC offers more information about masks. The WHO offers videos and illustrations on when and how to use a mask.
+Is it safe to travel by airplane?
+Stay current on travel advisories from regulatory agencies. This is a rapidly changing situation.
+Anyone who has a fever and respiratory symptoms should not fly if at all possible. Even if a person has symptoms that feel like just a cold, he or she should wear a mask on an airplane.
+Is there a vaccine available?
+No vaccine is available, although scientists will be starting human testing on a vaccine very soon. However, it may be a year or more before we even know if we have a vaccine that works.
+Can a person who has had coronavirus get infected again?
+While we don't know the answer yet, most people would likely develop at least short-term immunity to the specific coronavirus that causes COVID-19. However, you would still be susceptible to a different coronavirus infection. Or, this particular virus could mutate, just like the influenza virus does each year. Often these mutations change the virus enough to make you susceptible, because your immune system thinks it is an infection that it has never seen before.
+How long can the coronavirus that causes COVID-19 survive on surfaces?
+We don't yet know how long the coronavirus can survive on surfaces such as plastic, porcelain, granite, steel, or copper. In the meantime, the CDC recommends cleaning frequently touched surfaces and objects every day. These include counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables.
+If surfaces are dirty, first clean them using a detergent and water, then disinfect them. A list of products suitable for use against COVID-19 is available here. This list has been pre-approved by the U.S. Environmental Protection Agency (EPA) for use during the COVID-19 outbreak.
+I'm taking a medication that suppresses my immune system. Should I stop taking it so I have less chance of getting sick from the coronavirus?
+If you contract the virus, your response to it will depend on many factors, only one of which is taking medication that suppresses your immune system. In addition, stopping the medication on your own could cause your underlying condition to get worse. Most importantly, don't make this decision on your own. It's always best not to adjust the dose or stop taking a prescription medication without first talking to the doctor who prescribed the medication.
+Will a pneumococcal vaccine help protect me against coronavirus?
+Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza type B (Hib) vaccine, only help protect people from these specific bacterial infections. They do not protect against any coronavirus pneumonia, including pneumonia that may be part of COVID-19. However, even though these vaccines do not specifically protect against the coronavirus that causes COVID-19, they are highly recommended to protect against other respiratory illnesses.
+I'm older and have a chronic medical condition, which puts me at higher risk for getting seriously ill, or even dying from COVID-19. What can I do to reduce my risk of exposure to the virus?
+Anyone 60 years or older is considered to be at higher risk for getting very sick from COVID-19. This is true whether or not you also have an underlying medical condition, although the sickest individuals and most of the deaths have been among people who were both older and had chronic medical conditions, such as heart disease, lung problems or diabetes.
+The CDC suggests the following measures for those who are at higher risk:
+* Obtain several weeks of medications and supplies in case you need to stay home for prolonged periods of time.
+* Take everyday precautions to keep space between yourself and others.
+* When you go out in public, keep away from others who are sick, limit close contact, and wash your hands often.
+* Avoid crowds.
+* Avoid cruise travel and nonessential air travel.
